@@ -1,0 +1,38 @@
+.banner {
+    background-image: url('../images/back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: white;
+    font-size: 50px;
+    padding: 5% 10%;
+    align-items: center;
+    justify-self: center;
+}
+
+.main_list {
+    padding-top: 100px;
+}
+
+.baner_titel {
+    display: flex;
+    width: 100%;
+    gap: 50px;
+    font-size: 68px;
+    font-weight: 800;
+    margin: auto;
+
+}
+
+.main_info {
+    background-color: #EBEFF3;
+    font-size: 30px;
+    margin: auto;
+    color: #002F6C;
+    padding: 70px 0;
+}
+
+.main_info p {
+    margin: auto;
+    width: 60%;
+}

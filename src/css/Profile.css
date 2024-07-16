@@ -1,0 +1,84 @@
+.full_profile {
+    padding-top: 120px;
+    background-color: #EBEFF3;
+    color: #002F6C;
+    padding-bottom: 20px;
+}
+
+.profile {
+    display: flex;
+    margin: auto;
+    height: 80%;
+    justify-content: space-around;
+    margin: 0 15%;
+}
+
+.profile_title {
+    font-size: 64px;
+    font-weight: 800;
+    text-align: center;
+    margin: auto;
+}
+
+.stat_name {
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.sub_stat {
+    font-size: 25px;
+}
+
+.stat {
+    margin: 30px 0;
+    padding-bottom: 5px;
+    border-bottom: solid 10px #002F6C;
+}
+
+.refs {
+    font-size: 54px;
+    background-color: #002F6C;
+    border-radius: 15px;
+    color: white;
+    margin: 10px 0 0 0;
+    padding-left: 20px;
+}
+
+.ref_link {
+    font-size: 30px;
+    border: solid 5px #002F6C;
+    border-radius: 15px;
+    padding: 5px 10px;
+    margin-top: 15px;
+}
+
+.ava_img {
+    border: solid 5px #A9ACAF;
+}
+
+.stats {
+    width: 40%;
+}
+
+.profile_buts {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ed_but {
+    width: 220px;
+    height: 50px;
+    border: none;
+    border-radius: 13px;
+    margin: 10px 0;
+    font-weight: 500;
+    background-color: #002F6C;
+    color: white;
+    font-size: 25px;
+}
+
+.ed_but:hover {
+    background-color: #0BD1FD;
+    box-shadow: #002F6C 10px 10px;
+}
